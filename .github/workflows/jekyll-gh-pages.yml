@@ -51,7 +51,7 @@ jobs:
 
       - name: Build theme assets
         run: |
-          npm ci
+          npm install
           npm run build    
 
       - name: Build site
