@@ -1,9 +1,9 @@
 ---
 title: dohoon kim
 description: >-
-  I was born on June 9, 2004, in Ulsan, South Korea. I graduated from Daun Elementary School, Daun Middle School, and Daun High School.
+  I was born on June 9, 2004, in Ulsan, South Korea. I graduated from Daun Elementary School, Daun Middle School, and Daun High School, and I attend Pukyong National University. 
 author: cotes
-date: 2026-11-11 16:05:00 +0800
+date: 2026-11-10 16:05:00 +0800
 categories: [Blogging, Tutorial]
 tags: [getting started]
 pin: true
