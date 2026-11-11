@@ -9,7 +9,7 @@ pin: true
 math: true
 mermaid: true
 image:
-  path: assets/img/favicons/ditto.png
+  path: https://dododoho.github.io/assets/img/favicons/ditto.png
   alt: metamon
 ---
 
