@@ -1,8 +1,7 @@
 ---
-title: Getting Started
+title: dohoon kim
 description: >-
-  Get started with Chirpy basics in this comprehensive overview.
-  You will learn how to install, configure, and use your first Chirpy-based website, as well as deploy it to a web server.
+  I was born on June 9, 2004, in Ulsan, South Korea. I graduated from Daun Elementary School, Daun Middle School, and Daun High School.
 author: cotes
 date: 2019-08-09 20:55:00 +0800
 categories: [Blogging, Tutorial]
