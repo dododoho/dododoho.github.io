@@ -2,7 +2,7 @@
 title: metamon(ditto)
 description: Ditto is a Pokémon that can transform into other Pokémon. It has a soft, purple body and a simple, cute face, very good.
 author: cotes
-date: 2026-11-11 16:13:00 +0800
+date: 2026-11-10 16:13:00 +0800
 categories: [Blogging, Demo]
 tags: [typography]
 pin: true
